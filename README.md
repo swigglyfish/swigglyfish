@@ -11,5 +11,4 @@ Outside of the programming world, you can find me rolling on the mats at your lo
   <a href="https://www.facebook.com/benjamin.lewis.3386585"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width=15; height=15;></a> &nbsp; www.facebook.com/benjamin.lewis.3386585
   <br>
   <a href="https://mail.google.com"><img src="https://img.icons8.com/fluent/48/000000/gmail--v1.png" width=15; height=15;></a> &nbsp; benjlewis2014@gmail.com
-  
 </div>
