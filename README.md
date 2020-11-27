@@ -6,9 +6,9 @@ Outside of the programming world, you can find me rolling on the mats at your lo
 
 ### You can also find me at:
 <div>
-  <a href="https://www.linkedin.com/in/ben-lewis-45385019b"><img src="http://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" width=15 height=15></a>www.linkedin.com/in/ben-lewis-45385019b
+  <a href="https://www.linkedin.com/in/ben-lewis-45385019b"><img src="http://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" width=15 height=15></a> &nbsp; www.linkedin.com/in/ben-lewis-45385019b
   
-  <a href="https://www.linkedin.com/in/ben-lewis-45385019b"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width=15; height=15;></a>
+  <a href="https://www.facebook.com/benjamin.lewis.3386585"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width=15; height=15;></a> &nbsp; www.facebook.com/benjamin.lewis.3386585
   
-  <a href="https://mail.google.com"><img src="https://img.icons8.com/fluent/48/000000/gmail--v1.png" width=15; height=15;></a>benjlewis2014@gmail.com
+  <a href="https://mail.google.com"><img src="https://img.icons8.com/fluent/48/000000/gmail--v1.png" width=15; height=15;></a> &nbsp; benjlewis2014@gmail.com
 </div>
