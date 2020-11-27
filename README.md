@@ -5,6 +5,6 @@ I'm an aspiring data analyst from Northern California who's passionate about hel
 Outside of the programming world, you can find me rolling on the mats at your local BJJ gym or searching for random foreign people to talk to improve my Spanish and French. Nature is pretty cool too, go hug a tree to ward off the loneliness of being stuck indoors. I also love the shooting range and barbecue, so don't you dare call me a hippie for being Californian or for hugging trees.
 
 ### You can also find me at:
-<img src="https://en.wikipedia.org/wiki/Gmail#/media/File:Gmail_Icon.svg" width=20> &nbsp;&nbsp; www.linkedin.com/in/ben-lewis-45385019b
+<img src="https://en.wikipedia.org/wiki/Gmail#/media/File:Gmail_icon_(2020).svg"> www.linkedin.com/in/ben-lewis-45385019b
 <br>
-<img src="https://en.wikipedia.org/wiki/Gmail#/media/File:Gmail_icon_(2020).svg" width=15> &nbsp;&nbsp; benjlewis2014@gmail.com
+<img src="img_girl.jpg" width="20"> &nbsp;&nbsp; benjlewis2014@gmail.com
